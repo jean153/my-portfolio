@@ -19,7 +19,7 @@ const About = () => {
             <h2 className="text-3xl font-bold text-gray-800">About Me</h2>
           <p className="text-lg md:text-xl text-gray-700 leading-relaxed text-center md:text-left">
            I am a software developer and data enthusiast based in Kenya, specializing in full-stack development, data analysis, and machine learning. With hands-on experience in Node.js,Python ,MySQL ,R, Reactjs,Threejs and Tailwind CSS, I build responsive, dynamic applications and data-driven solutions.
-           A problem-solver with a strong foundation in algorithms, database design, and AI concepts, I am passionate about translating complex technical challenges into practical, scalable solutions. I also balance my technical work with a disciplined approach to personal growth and sports, reflecting his dedication, focus, and perseverance.
+           A problem-solver with a strong foundation in algorithms, database design, and AI concepts, I am passionate about translating complex technical challenges into practical, scalable solutions. I also balance my technical work with a disciplined approach to personal growth and sports, reflecting my dedication, focus, and perseverance.
           </p>
         </div>
 
